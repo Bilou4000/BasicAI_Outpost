@@ -18,7 +18,7 @@ The document we use to fix and continue this project :
 ---
 
 ### Our Own Version of the Project 
-Our own version of the project  made during the week.
+The main version that we made during the week.
 
 Check out our own version of the project on GitHub:  
 [Link to GitHub Project](https://github.com/Mathurin0/BasicAI_Project)
